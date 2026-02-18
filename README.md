@@ -9,6 +9,7 @@ Este é meu projeto de desenvolvimento de jogo 3D em Godot. Estou criando protó
    ```bash
    git clone https://github.com/joaogabrieloliveiralopes/dev-projeto-de-jogo.git
 ##Próximos passos
+
 Implementar mecânicas principais do jogo
 Criar menus e HUD interativo
 Ajustar física e movimentação
