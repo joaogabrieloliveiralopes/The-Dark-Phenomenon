@@ -23,9 +23,10 @@ https://github.com/joaogabrieloliveiralopes/dev-projeto-de-jogo/releases/tag/Sof
 
 ## Licença
 
-All Rights Reserved © 2026 João Gabriel Oliveira Lopes
+Copyright © 2026 João Gabriel.
+All rights reserved.
 
-Todo o código e assets deste projeto são protegidos. Uso, cópia ou distribuição sem autorização é proibido.
+This project includes third-party assets licensed under their respective licenses.
 
 ## Contato
 
